@@ -1,0 +1,29 @@
+footer {
+    position: fixed;
+    bottom: 0px;
+    height: 40px;
+    display: block;
+    overflow: hidden;
+    left: 0!important;
+    width: 100%;
+    margin: 0;
+    padding: 1em!important;
+    
+}
+
+footer ul {
+    display: flex;
+    padding: 0;
+    margin: 0;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    list-style: none;
+}
+
+
+footer ul li {
+    padding: 0;
+}
